@@ -13,39 +13,55 @@
     
     "content": {
         "page1": {
-          "title": "Team and Connection",
-          "url": "https://aquila08.github.io/MarocTv/2M.htm",
-          "img": "https://www.freepngimg.com/thumb/light/20347-4-light-transparent-image.png"
+          "title": "MBC 1",
+          "url": "https://aquila08.github.io/MarocTv/1.htm",
+          "img": "https://aquila08.github.io/MarocTv/1.JPG"
         },
         "page2": {
-          "title": "Headphones and Sound",
-          "url": "https://aquila08.github.io/MarocTv/aloula.htm",
-          "img": "https://www.freepngimg.com/thumb/light/20347-4-light-transparent-image.png"
+          "title": "MBC 2",
+          "url": "https://aquila08.github.io/MarocTv/2.htm",
+          "img": "https://aquila08.github.io/MarocTv/2.JPG"
+        },
+		"page1": {
+          "title": "MBC ACTION",
+          "url": "https://aquila08.github.io/MarocTv/A.htm",
+          "img": "https://aquila08.github.io/MarocTv/A.JPG"
+        },
+        "page2": {
+          "title": "MBC MAX",
+          "url": "https://aquila08.github.io/MarocTv/M.htm",
+          "img": "https://aquila08.github.io/MarocTv/M.JPG"
         },
         "page3": {
-          "title": "Landing",
-          "url": "https://aquila08.github.io/MarocTv/Almeghribia.htm",
-          "img": "https://www.freepngimg.com/thumb/light/20347-4-light-transparent-image.png"
+          "title": "MBC 3",
+          "url": "https://aquila08.github.io/MarocTv/3.htm",
+          "img": "https://aquila08.github.io/MarocTv/3.JPG"
         },
         "page4": {
-          "title": "Equip yourself",
-          "url": "https://aquila08.github.io/MarocTv/Altaqafia.htm",
-          "img": "https://www.freepngimg.com/thumb/light/20347-4-light-transparent-image.png"
+          "title": "MBC 4",
+          "url": "https://aquila08.github.io/MarocTv/4.htm",
+          "img": "https://aquila08.github.io/MarocTv/4.JPG"
         },
         "page5": {
-          "title": "Diamonds",
-          "url": "https://aquila08.github.io/MarocTv/arriyadia.htm",
-          "img": "https://www.freepngimg.com/thumb/light/20347-4-light-transparent-image.png"
+          "title": "MBC 5",
+          "url": "https://aquila08.github.io/MarocTv/5.htm",
+          "img": "https://aquila08.github.io/MarocTv/5.JPG"
         },
         "page6": {
-          "title": "Settings",
-          "url": "https://aquila08.github.io/MarocTv/Assadissa.htm",
-          "img": "https://www.freepngimg.com/thumb/light/20347-4-light-transparent-image.png"
+          "title": "MBC BOLLYOOD",
+          "url": "https://aquila08.github.io/MarocTv/6.htm",
+          "img": "https://aquila08.github.io/MarocTv/6.JPG"
         },
         "page7": {
-          "title": "Characters",
-          "url": "https://aquila08.github.io/MarocTv/Tamazight.htm",
-          "img": "https://www.freepngimg.com/thumb/light/20347-4-light-transparent-image.png"
+          "title": "MBC MASR",
+          "url": "https://aquila08.github.io/MarocTv/7.htm",
+          "img": "https://aquila08.github.io/MarocTv/7.JPG"
+
+	    },
+        "page8": {
+          "title": "MBC DRAMA",
+          "url": "https://aquila08.github.io/MarocTv/8.htm",
+          "img": "https://aquila08.github.io/MarocTv/8.JPG"
         }
       }
 }
