@@ -14,54 +14,54 @@
     "content": {
         "page1": {
           "title": "MBC 1",
-          "url": "https://aquila08.github.io/MarocTv/1.htm",
-          "img": "https://aquila08.github.io/MarocTv/1.JPG"
+          "url": "https://aquila08.github.io/MBCLIVE/1.htm",
+          "img": "https://aquila08.github.io/MBCLIVE/1.JPG"
         },
         "page2": {
           "title": "MBC 2",
-          "url": "https://aquila08.github.io/MarocTv/2.htm",
-          "img": "https://aquila08.github.io/MarocTv/2.JPG"
+          "url": "https://aquila08.github.io/MBCLIVE/2.htm",
+          "img": "https://aquila08.github.io/MBCLIVE/2.JPG"
         },
 		"page1": {
           "title": "MBC ACTION",
-          "url": "https://aquila08.github.io/MarocTv/A.htm",
-          "img": "https://aquila08.github.io/MarocTv/A.JPG"
+          "url": "https://aquila08.github.io/MBCLIVE/A.htm",
+          "img": "https://aquila08.github.io/MBCLIVE/A.JPG"
         },
         "page2": {
           "title": "MBC MAX",
-          "url": "https://aquila08.github.io/MarocTv/M.htm",
-          "img": "https://aquila08.github.io/MarocTv/M.JPG"
+          "url": "https://aquila08.github.io/MBCLIVE/M.htm",
+          "img": "https://aquila08.github.io/MBCLIVE/M.JPG"
         },
         "page3": {
           "title": "MBC 3",
-          "url": "https://aquila08.github.io/MarocTv/3.htm",
-          "img": "https://aquila08.github.io/MarocTv/3.JPG"
+          "url": "https://aquila08.github.io/MBCLIVE/3.htm",
+          "img": "https://aquila08.github.io/MBCLIVE/3.JPG"
         },
         "page4": {
           "title": "MBC 4",
-          "url": "https://aquila08.github.io/MarocTv/4.htm",
-          "img": "https://aquila08.github.io/MarocTv/4.JPG"
+          "url": "https://aquila08.github.io/MBCLIVE/4.htm",
+          "img": "https://aquila08.github.io/MBCLIVE/4.JPG"
         },
         "page5": {
           "title": "MBC 5",
-          "url": "https://aquila08.github.io/MarocTv/5.htm",
-          "img": "https://aquila08.github.io/MarocTv/5.JPG"
+          "url": "https://aquila08.github.io/MBCLIVE/5.htm",
+          "img": "https://aquila08.github.io/MBCLIVE/5.JPG"
         },
         "page6": {
           "title": "MBC BOLLYOOD",
-          "url": "https://aquila08.github.io/MarocTv/6.htm",
-          "img": "https://aquila08.github.io/MarocTv/6.JPG"
+          "url": "https://aquila08.github.io/MBCLIVE/6.htm",
+          "img": "https://aquila08.github.io/MBCLIVE/6.JPG"
         },
         "page7": {
           "title": "MBC MASR",
-          "url": "https://aquila08.github.io/MarocTv/7.htm",
-          "img": "https://aquila08.github.io/MarocTv/7.JPG"
+          "url": "https://aquila08.github.io/MBCLIVE/7.htm",
+          "img": "https://aquila08.github.io/MBCLIVE/7.JPG"
 
 	    },
         "page8": {
           "title": "MBC DRAMA",
-          "url": "https://aquila08.github.io/MarocTv/8.htm",
-          "img": "https://aquila08.github.io/MarocTv/8.JPG"
+          "url": "https://aquila08.github.io/MBCLIVE/8.htm",
+          "img": "https://aquila08.github.io/MBCLIVE/8.JPG"
         }
       }
 }
