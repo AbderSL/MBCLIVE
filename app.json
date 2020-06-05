@@ -14,54 +14,54 @@
     "content": {
         "page1": {
           "title": "MBC 1",
-          "url": "https://aquila08.github.io/MBCLIVE/1.htm",
-          "img": "https://aquila08.github.io/MBCLIVE/1.JPG"
+          "url": "https://abdersl.github.io/MBCLIVE/1.htm",
+          "img": "https://abdersl.github.io/MBCLIVE/1.JPG"
         },
         "page2": {
           "title": "MBC 2",
-          "url": "https://aquila08.github.io/MBCLIVE/2.htm",
-          "img": "https://aquila08.github.io/MBCLIVE/2.JPG"
+          "url": "https://abdersl.github.io/MBCLIVE/2.htm",
+          "img": "https://abdersl.github.io/MBCLIVE/2.JPG"
         },
 	"page3": {
           "title": "MBC ACTION",
-          "url": "https://aquila08.github.io/MBCLIVE/A.htm",
-          "img": "https://aquila08.github.io/MBCLIVE/A.JPG"
+          "url": "https://abdersl.github.io/MBCLIVE/A.htm",
+          "img": "https://abdersl.github.io/MBCLIVE/A.JPG"
         },
         "page4": {
           "title": "MBC MAX",
-          "url": "https://aquila08.github.io/MBCLIVE/M.htm",
-          "img": "https://aquila08.github.io/MBCLIVE/M.JPG"
+          "url": "https://abdersl.github.io/MBCLIVE/M.htm",
+          "img": "https://abdersl.github.io/MBCLIVE/M.JPG"
         },
         "page5": {
           "title": "MBC 3",
-          "url": "https://aquila08.github.io/MBCLIVE/3.htm",
-          "img": "https://aquila08.github.io/MBCLIVE/3.JPG"
+          "url": "https://abdersl.github.io/MBCLIVE/3.htm",
+          "img": "https://abdersl.github.io/MBCLIVE/3.JPG"
         },
         "page6": {
           "title": "MBC 4",
-          "url": "https://aquila08.github.io/MBCLIVE/4.htm",
-          "img": "https://aquila08.github.io/MBCLIVE/4.JPG"
+          "url": "https://abdersl.github.io/MBCLIVE/4.htm",
+          "img": "https://abdersl.github.io/MBCLIVE/4.JPG"
         },
         "page7": {
           "title": "MBC 5",
-          "url": "https://aquila08.github.io/MBCLIVE/5.htm",
-          "img": "https://aquila08.github.io/MBCLIVE/5.JPG"
+          "url": "https://abdersl.github.io/MBCLIVE/5.htm",
+          "img": "https://abdersl.github.io/MBCLIVE/5.JPG"
         },
         "page8": {
           "title": "MBC BOLLYOOD",
-          "url": "https://aquila08.github.io/MBCLIVE/6.htm",
-          "img": "https://aquila08.github.io/MBCLIVE/6.JPG"
+          "url": "https://abdersl.github.io/MBCLIVE/6.htm",
+          "img": "https://abdersl.github.io/MBCLIVE/6.JPG"
         },
         "page9": {
           "title": "MBC MASR",
-          "url": "https://aquila08.github.io/MBCLIVE/7.htm",
-          "img": "https://aquila08.github.io/MBCLIVE/7.JPG"
+          "url": "https://abdersl.github.io/MBCLIVE/7.htm",
+          "img": "https://abdersl.github.io/MBCLIVE/7.JPG"
 
 	    },
         "page10": {
           "title": "MBC DRAMA",
-          "url": "https://aquila08.github.io/MBCLIVE/8.htm",
-          "img": "https://aquila08.github.io/MBCLIVE/8.JPG"
+          "url": "https://abdersl.github.io/MBCLIVE/8.htm",
+          "img": "https://abdersl.github.io/MBCLIVE/8.JPG"
         }
       }
 }
