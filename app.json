@@ -1,6 +1,6 @@
 {
     "app": {
-        "name": "MBC canaL",
+        "name": "MBC CHANNELS",
         "color": "#008577"
     },
     
@@ -22,11 +22,10 @@
           "url": "https://abdersl.github.io/MBCLIVE/2.html",
           "img": "https://abdersl.github.io/MBCLIVE/2.jpg"
         },
-		"page3": {
+	"page3": {
           "title": "MBC ACTION",
           "url": "https://abdersl.github.io/MBCLIVE/A.html",
           "img": "https://abdersl.github.io/MBCLIVE/A.jpg"
-
         },
         "page5": {
           "title": "MBC 3",
@@ -52,8 +51,7 @@
           "title": "MBC MASR",
           "url": "https://abdersl.github.io/MBCLIVE/7.html",
           "img": "https://abdersl.github.io/MBCLIVE/7.jpg"
-
-	    },
+        },
         "page10": {
           "title": "MBC DRAMA",
           "url": "https://abdersl.github.io/MBCLIVE/8.html",
