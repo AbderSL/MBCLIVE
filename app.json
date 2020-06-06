@@ -19,43 +19,43 @@
         },
         "page2": {
           "title": "MBC 2",
-          "url": "https://abdersl.github.io/MBCLIVE/1.html",
-          "img": "https://abdersl.github.io/MBCLIVE/1.jpg"
+          "url": "https://abdersl.github.io/MBCLIVE/2.html",
+          "img": "https://abdersl.github.io/MBCLIVE/2.jpg"
         },
         "page3": {
           "title": "MBC ACTION",
-          "url": "https://abdersl.github.io/MBCLIVE/1.html",
-          "img": "https://abdersl.github.io/MBCLIVE/1.jpg"
+          "url": "https://abdersl.github.io/MBCLIVE/A.html",
+          "img": "https://abdersl.github.io/MBCLIVE/A.jpg"
         },
         "page4": {
           "title": "MBC 3",
-          "url": "https://abdersl.github.io/MBCLIVE/1.html",
-          "img": "https://abdersl.github.io/MBCLIVE/1.jpg"
+          "url": "https://abdersl.github.io/MBCLIVE/3.html",
+          "img": "https://abdersl.github.io/MBCLIVE/3.jpg"
         },
         "page5": {
           "title": "MBC 4",
-          "url": "https://abdersl.github.io/MBCLIVE/1.html",
-          "img": "https://abdersl.github.io/MBCLIVE/1.jpg"
+          "url": "https://abdersl.github.io/MBCLIVE/4.html",
+          "img": "https://abdersl.github.io/MBCLIVE/4.jpg"
         },
         "page6": {
           "title": "MBC 5",
-          "url": "https://abdersl.github.io/MBCLIVE/1.html",
-          "img": "https://abdersl.github.io/MBCLIVE/1.jpg"
+          "url": "https://abdersl.github.io/MBCLIVE/5.html",
+          "img": "https://abdersl.github.io/MBCLIVE/5.jpg"
         },
         "page7": {
           "title": "MBC Bollyood",
-          "url": "https://abdersl.github.io/MBCLIVE/1.html",
-          "img": "https://abdersl.github.io/MBCLIVE/1.jpg"
+          "url": "https://abdersl.github.io/MBCLIVE/6.html",
+          "img": "https://abdersl.github.io/MBCLIVE/6.jpg"
         },
         "page8": {
           "title": "MBC MASR",
-          "url": "https://abdersl.github.io/MBCLIVE/1.html",
-          "img": "https://abdersl.github.io/MBCLIVE/1.jpg"
+          "url": "https://abdersl.github.io/MBCLIVE/7.html",
+          "img": "https://abdersl.github.io/MBCLIVE/7.jpg"
         },
         "page9": {
           "title": "MBC DRAMA",
-          "url": "https://abdersl.github.io/MBCLIVE/1.html",
-          "img": "hhttps://abdersl.github.io/MBCLIVE/1.jpg"
+          "url": "https://abdersl.github.io/MBCLIVE/8.html",
+          "img": "hhttps://abdersl.github.io/MBCLIVE/8.jpg"
 
         }
       }
