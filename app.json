@@ -1,13 +1,13 @@
 {
     "app": {
-        "name": "Server Guide",
-        "color": "#008577"
+        "name": "MBC CHANNELS",
+        "color": "#850037"
     },
     
     
     "ads":{
         "bannerId": "ca-app-pub-4795636117292694/7554186348",
-        "interstitialId": ""
+        "interstitialId": "ca-app-pub-4795636117292694/4161736241"
     },
     
     
