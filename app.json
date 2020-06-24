@@ -14,12 +14,12 @@
     "content": {
         "page1": {
           "title": "MBC 1",
-          "url": "https://shls-mbc1ksa-prod.shahid.net/mbc1ksa-prod_10.m3u8",
+          "url": "https://shls-mbc1ksa-prod.shahid.net/mbc1ksa-prod_1.m3u8",
           "img": "https://abdersl.github.io/MBCLIVE/1.jpg"
         },
         "page2": {
           "title": "MBC 2",
-          "url": "https://shls-mbc2-prod.shahid.net/mbc2-prod_10.m3u8",
+          "url": "https://shls-mbc2-prod.shahid.net/mbc2-prod_1.m3u8",
           "img": "https://abdersl.github.io/MBCLIVE/2.jpg"
         },
         "page3": {
@@ -34,7 +34,7 @@
         },
         "page5": {
           "title": "MBC 3",
-          "url": "https://shls-mbc3-prod.shahid.net/mbc3-prod_10.m3u8",
+          "url": "https://shls-mbc3-prod.shahid.net/mbc3-prod_1.m3u8",
           "img": "https://abdersl.github.io/MBCLIVE/3.jpg"
             
         },
