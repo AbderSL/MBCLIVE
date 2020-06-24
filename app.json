@@ -29,7 +29,7 @@
         },
         "page4": {
           "title": "MBC MAX",
-          "url": "https://shls-mbcmax-prod.shahid.net/mbcmax-prod_3.m3u8",
+          "url": "https://shls-mbcmax-prod.shahid.net/mbcmax-prod_1.m3u8",
           "img": "https://abdersl.github.io/MBCLIVE/max.jpg"
         },
         "page5": {
@@ -40,7 +40,7 @@
         },
         "page6": {
           "title": "MBC 4",
-          "url": "https://shls-mbc4-prod.shahid.net/mbc4-prod_3.m3u8",
+          "url": "https://shls-mbc4-prod.shahid.net/mbc4-prod_1.m3u8",
           "img": "https://abdersl.github.io/MBCLIVE/4.jpg"
         },
         "page7": {
@@ -55,12 +55,12 @@
         },
         "page9": {
           "title": "MBC MASR",
-          "url": "https://shls-masr-prod.shahid.net/masr-prod_3.m3u8",
+          "url": "https://shls-masr-prod.shahid.net/masr-prod_1.m3u8",
           "img": "https://abdersl.github.io/MBCLIVE/7.jpg"
         },
         "page10": {
           "title": "MBC DRAMA",
-          "url": "https://shls-mbcdramaksa-prod.shahid.net/mbcdramaksa-prod_3.m3u8",
+          "url": "https://shls-mbcdramaksa-prod.shahid.net/mbcdramaksa-prod_1.m3u8",
           "img": "https://abdersl.github.io/MBCLIVE/8.jpg"
 
         }
