@@ -14,7 +14,7 @@
     "content": {
         "page1": {
           "title": "MBC 1",
-          "url": "https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index_10.m3u8",
+          "url": "https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index_3.m3u8",
           "img": "https://abdersl.github.io/MBCLIVE/1.jpg"
         },
         "page2": {
@@ -24,7 +24,7 @@
         },
         "page3": {
           "title": "MBC ACTION",
-          "url": "https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index_10.m3u8",
+          "url": "https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index_3.m3u8",
           "img": "https://abdersl.github.io/MBCLIVE/A.jpg"
         },
         "page4": {
@@ -45,7 +45,7 @@
         },
         "page7": {
           "title": "MBC 5",
-          "url": "https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_4.m3u8",
+          "url": "https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_3.m3u8",
           "img": "https://abdersl.github.io/MBCLIVE/5.jpg"
         },
         "page8": {
@@ -55,7 +55,7 @@
         },
         "page9": {
           "title": "MBC MASR",
-          "url": "https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index_4.m3u8",
+          "url": "https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index_3.m3u8",
           "img": "https://abdersl.github.io/MBCLIVE/7.jpg"
         },
         "page10": {
