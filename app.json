@@ -12,10 +12,11 @@
     
     
     "content": {
+	   },
         "page1": {
-          "title": "MBC 1",
-          "url": "https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index_8.m3u8",
-          "img": "https://abdersl.github.io/MBCLIVE/1.jpg"
+          "title": "MAROC vs BELGIQUE بلجيكا-المغرب",
+          "url": "https://AbderSL.github.io/MarocTV-2022/marcop.htm",
+          "img": "https://AbderSL.github.io/MarocTV-2022/LOGO/cop22.jpg"
         },
         "page2": {
           "title": "MBC 2",
